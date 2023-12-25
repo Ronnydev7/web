@@ -1,0 +1,16 @@
+{
+  "blob-storage.unable-to-create-download-url": "无法生成下载链接",
+  "blob-storage.unable-to-create-upload-url": "无法生成上传链接",
+  "blob-storage.unable-to-delete-object": "无法删除",
+  "common-strings.invalid-jwt-token": "无效令牌",
+  "common-strings.login": "登录",
+  "common-strings.logout": "登出",
+  "common-strings.token-expired": "令牌已过期",
+  "common-strings.unable-to-process-jwt-token": "无法处理令牌",
+  "common-strings.unauthorized": "无访问权限",
+  "common-strings.unknown-server-error": "未知服务器错误",
+  "email-credential.invalid-email-credential": "无效登录信息",
+  "email-credential.weak-password": "密码过于简单。我们通过密码的熵值来衡量密码强弱。请通过添加更多不同的字符来增加密码的强度",
+  "public-profile.duplicate-handle-name": "用户名已被注册",
+  "viewer.invalid-login-credential": "无效的登录信息"
+}

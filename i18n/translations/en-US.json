@@ -1,0 +1,16 @@
+{
+  "blob-storage.unable-to-create-download-url": "Unable to create download url",
+  "blob-storage.unable-to-create-upload-url": "Unable to generate upload URL",
+  "blob-storage.unable-to-delete-object": "Unable to delete",
+  "common-strings.invalid-jwt-token": "Invalid Token",
+  "common-strings.login": "Login",
+  "common-strings.logout": "Logout",
+  "common-strings.token-expired": "Token Expired",
+  "common-strings.unable-to-process-jwt-token": "Unable to process token",
+  "common-strings.unauthorized": "Unauthorized Access",
+  "common-strings.unknown-server-error": "Unknown Server Error",
+  "email-credential.invalid-email-credential": "Invalid Login Credential",
+  "email-credential.weak-password": "Password is too weak. We use entropy to detect weak password. Please add more variance to your password characters",
+  "public-profile.duplicate-handle-name": "This handle name has been taken",
+  "viewer.invalid-login-credential": "Invalid Auth Information"
+}

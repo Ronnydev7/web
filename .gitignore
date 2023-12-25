@@ -1,0 +1,5 @@
+.DS_Store
+app/**/generated/
+node_modules
+yarn-error.log
+*/**/coverage

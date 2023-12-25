@@ -1,0 +1,15 @@
+type UserToken {
+  authToken: String!
+  refreshToken: String!
+}
+
+extend type Query {
+  viewer: User
+  user(id: ID!): User
+  refreshUserToken: UserToken
+}
+
+extend type Mutation {
+  logout: Boolean!
+  createProfilePhotoUploadUrl(userId: ID!, md5: String!): String
+}
